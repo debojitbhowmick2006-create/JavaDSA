@@ -26,7 +26,7 @@ public class SelectionSort {
             }
         }
         System.out.println(Arrays.toString(arr));
-        //alternative method using function.
+        //alternative approach using method.
         Selec(arr);
         System.out.println(Arrays.toString(arr));
     }
